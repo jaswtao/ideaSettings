@@ -1,0 +1,183 @@
+<application>
+  <component name="libraryTable">
+    <library name="play">
+      <CLASSES>
+        <root url="jar://$PLAY_HOME$/framework/play-1.2.7.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/activation-1.1.1.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/antlr-2.7.7.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/asm-all-3.3.1.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/async-http-client-1.7.8.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/bcprov-jdk15-1.45.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/c3p0-0.9.1.2.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/cglib-nodep-2.2.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/commons-beanutils-1.8.3.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/commons-codec-1.4.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/commons-collections-3.1.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/commons-email-1.2.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/commons-fileupload-1.2.2.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/commons-io-2.0.1.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/commons-javaflow-1209105.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/commons-lang-2.6.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/commons-logging-1.1.1.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/dom4j-1.6.1.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/ehcache-core-2.4.3.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/ezmorph-1.0.3.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/geronimo-servlet_2.5_spec-1.2.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/groovy-all-1.8.6.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/gson-2.2.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/h2-1.3.166.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/hibernate-commons-annotations-3.2.0.Final.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/hibernate-core-3.6.10.Final.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/hibernate-entitymanager-3.6.10.Final.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/hibernate-validator-4.1.0.Final.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/ivy-2.2.0.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/jamon-2.7.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/javassist-3.9.0.GA.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/javax.inject-1.0.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/jaxb-api-2.2.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/jaxb-impl-2.1.12.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/jaxen-1.1.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/jj-imaging.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/jj-simplecaptcha.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/jj-textile.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/jj-wikitext.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/joda-time-2.1.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/jregex-1.2_01.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/jsr107cache-1.0.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/junit-4.10.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/log4j-1.2.16.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/mail-1.4.3.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/memcached-2.6.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/mysql-connector-java-5.1.20.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/netty-3.4.2.Final.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/org.eclipse.jdt.core-3.7.1.v_B76_R37x.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/oval-1.50.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/postgresql-9.0.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/signpost-core-1.2.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/slf4j-api-1.6.1.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/slf4j-log4j12-1.6.1.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/snakeyaml-1.7.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/validation-api-1.0.0.GA.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/xmlpull-1.1.3.1.jar!/" />
+        <root url="jar://$PLAY_HOME$/framework/lib/xstream-1.4.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/play-1.2.7-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ideaLibSources/commons-fileupload-1.2.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="resume">
+      <CLASSES>
+        <root url="jar://E:/project/resume-web/lib/aopalliance-1.0.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/aspectjweaver-1.7.2.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/avalon-framework-4.1.3.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/classmate-1.0.0.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/commons-beanutils-1.8.3.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/commons-chain-1.1.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/commons-codec-1.8.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/commons-collections-3.2.1.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/commons-digester-1.8.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/commons-fileupload-1.3.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/commons-io-2.4.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/commons-lang-2.6.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/commons-lang3-3.1.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/commons-logging-1.1.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/commons-validator-1.3.1.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/dom4j-1.6.1.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/druid-1.0.11.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/ehcache-core-2.5.0.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/fastjson-1.2.3.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/guava-18.0.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/hibernate-validator-5.1.1.Final.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jackson-annotations-2.3.0.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jackson-core-2.3.3.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jackson-databind-2.3.3.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/javax.el-api-2.2.5.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/javax.servlet-api-3.1.0.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/javax.websocket-api-1.0.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jboss-logging-3.1.3.GA.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jcl-over-slf4j-1.7.5.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jetty-all-9.2.9.v20150224.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jetty-http-9.2.9.v20150224.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jetty-io-9.2.9.v20150224.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jetty-security-9.2.9.v20150224.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jetty-server-9.2.9.v20150224.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jetty-servlet-9.2.9.v20150224.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jetty-util-9.2.9.v20150224.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jetty-webapp-9.2.9.v20150224.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jetty-xml-9.2.9.v20150224.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/jul-to-slf4j-1.7.5.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/log4j-1.2.13.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/log4j-over-slf4j-1.7.5.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/logback-classic-1.1.2.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/logback-core-1.1.2.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/logkit-1.0.1.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/mybatis-3.2.7.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/mybatis-spring-1.2.2.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/mysql-connector-java-5.1.23.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/ooxml-schemas-1.0.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/poi-3.5-FINAL.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/poi-ooxml-3.5-FINAL.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/resume-common-0.0.1-SNAPSHOT.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/resume-web-0.0.1-SNAPSHOT.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/servlet-api-2.3.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/shiro-core-1.2.2.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/shiro-ehcache-1.2.2.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/shiro-spring-1.2.2.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/shiro-web-1.2.2.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/slf4j-api-1.7.5.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/spring-aop-4.2.4.RELEASE.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/spring-beans-4.2.4.RELEASE.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/spring-context-4.2.4.RELEASE.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/spring-context-support-4.2.4.RELEASE.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/spring-core-4.2.4.RELEASE.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/spring-expression-4.2.4.RELEASE.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/spring-jdbc-4.2.4.RELEASE.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/spring-tx-4.2.4.RELEASE.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/spring-web-4.2.4.RELEASE.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/spring-webmvc-4.2.4.RELEASE.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/stax-api-1.0.1.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/tripod-common-spring-0.0.2-SNAPSHOT.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/tripod-platform-api-0.0.2-SNAPSHOT.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/tripod-platform-common-0.0.2-SNAPSHOT.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/tripod-platform-container-base-0.0.2-SNAPSHOT.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/tripod-platform-container-jetty-0.0.2-SNAPSHOT.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/tripod-platform-mybatis-0.0.2-SNAPSHOT.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/validation-api-1.1.0.Final.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/velocity-1.7.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/velocity-tools-2.0.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/xml-apis-1.0.b2.jar!/" />
+        <root url="jar://E:/project/resume-web/lib/xmlbeans-2.3.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="sockjs" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_sockjs-client_1.1.4_sockjs.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_sockjs-client_1.1.4_sockjs.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="stomp" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_stomp.js_2.3.3_stomp.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_stomp.js_2.3.3_stomp.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
