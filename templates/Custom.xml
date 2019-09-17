@@ -20,4 +20,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="time" value="$date$" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
