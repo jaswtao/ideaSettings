@@ -99,6 +99,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="7QzHuOV5DDW" />
                 <option name="order" value="181750" />
               </RHBaseItem>
