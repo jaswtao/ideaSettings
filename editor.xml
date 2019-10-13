@@ -1,8 +1,13 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Courier New" />
+  </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>
