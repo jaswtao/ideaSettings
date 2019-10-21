@@ -5,12 +5,9 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="info" value="if (logger.isInfoEnabled()) {&#10;    logger.info($END$);&#10;}" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="debug" value="if (logger.isDebugEnabled()) {&#10;    logger.debug($END$);&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="debug" value="logger.debug(&quot;$CLASS_NAME$#$METHOD_NAME$, $END$&quot;);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
@@ -24,6 +21,13 @@
     <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="error" value="logger.error(&quot;$CLASS_NAME$#$METHOD_NAME$, $END$&quot;);" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
