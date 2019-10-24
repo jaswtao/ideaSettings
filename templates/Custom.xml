@@ -23,7 +23,7 @@
       <option name="JAVA_COMMENT" value="true" />
     </context>
   </template>
-  <template name="error" value="logger.error(&quot;$CLASS_NAME$#$METHOD_NAME$, $END$&quot;);" toReformat="false" toShortenFQNames="true">
+  <template name="error" value="logger.error(&quot;$CLASS_NAME$#$METHOD_NAME$, $END$&quot;);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <context>
