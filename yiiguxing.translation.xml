@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="日志记录对象" />
+      <item value="final" />
+      <item value="Logger" />
+      <item value="Logger Factory" />
       <item value="Comments" />
       <item value="Generated" />
       <item value="Settle VO" />
@@ -10,9 +14,17 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
