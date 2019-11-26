@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Memory" />
+      <item value="Memery" />
+      <item value="Menmery" />
       <item value="caught" />
       <item value="written" />
       <item value="writing" />
@@ -25,8 +28,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="32" />
+        <entry key="TELUGU" value="1" />
       </map>
     </option>
   </component>
