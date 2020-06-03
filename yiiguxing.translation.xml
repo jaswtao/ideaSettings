@@ -48,5 +48,6 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translateDocumentation" value="false" />
   </component>
 </application>
