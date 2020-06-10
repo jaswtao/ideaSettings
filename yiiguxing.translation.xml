@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Positive" />
+      <item value="Negative" />
       <item value="Assets" />
       <item value="stabbed" />
       <item value="direct" />
@@ -37,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="43" />
         <entry key="TELUGU" value="1" />
       </map>
     </option>
