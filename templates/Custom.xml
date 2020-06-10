@@ -12,7 +12,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="api" value="@ApiImplicitParam(dataType = &quot;String&quot;, paramType = &quot;header&quot;, name = &quot;x-auth-token&quot;)" description="" toReformat="false" toShortenFQNames="true">
+  <template name="api" value="@ApiImplicitParam(dataType = &quot;String&quot;, paramType = &quot;header&quot;, name = CommonConsts.SECURE_HEADER)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
