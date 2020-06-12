@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收款" />
+      <item value="Receipt" />
       <item value="payment" />
       <item value="Permanent" />
       <item value="Positive" />
@@ -41,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="46" />
         <entry key="TELUGU" value="1" />
       </map>
     </option>
