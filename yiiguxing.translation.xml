@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PRUCHASE" />
       <item value="transaction" />
       <item value="收款" />
       <item value="Receipt" />
@@ -44,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="48" />
         <entry key="TELUGU" value="1" />
       </map>
     </option>
