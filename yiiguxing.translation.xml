@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Finite" />
+      <item value="POSITIVE INFINITY" />
+      <item value="infinitely" />
       <item value="PURCHASE" />
       <item value="PRUCHASE" />
       <item value="transaction" />
@@ -46,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="52" />
         <entry key="TELUGU" value="1" />
       </map>
     </option>
