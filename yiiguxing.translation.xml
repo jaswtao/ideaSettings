@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns" />
+      <item value="value Of" />
+      <item value="Compact" />
+      <item value="INFLATED" />
       <item value="encapsulates" />
       <item value="initialize" />
       <item value="time Out" />
@@ -47,14 +51,11 @@
       <item value="Comments" />
       <item value="Generated" />
       <item value="Settle VO" />
-      <item value="Settle" />
-      <item value="Settlement" />
-      <item value="BORROW" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="62" />
         <entry key="TELUGU" value="1" />
       </map>
     </option>
