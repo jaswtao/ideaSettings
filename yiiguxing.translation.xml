@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constants" />
+      <item value="definition" />
       <item value="Returns" />
       <item value="value Of" />
       <item value="Compact" />
@@ -49,13 +51,11 @@
       <item value="Logger" />
       <item value="Logger Factory" />
       <item value="Comments" />
-      <item value="Generated" />
-      <item value="Settle VO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="64" />
         <entry key="TELUGU" value="1" />
       </map>
     </option>
