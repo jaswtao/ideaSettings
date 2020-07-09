@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="payable" />
       <item value="Orgnization" />
       <item value="orgnization" />
       <item value="ORGANIZATION" />
@@ -50,12 +51,11 @@
       <item value="settle" />
       <item value="settleing" />
       <item value="settling" />
-      <item value="SETTLEMENT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="71" />
         <entry key="TELUGU" value="1" />
         <entry key="SHONA" value="1" />
       </map>
