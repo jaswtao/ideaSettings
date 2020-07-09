@@ -1,12 +1,45 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subtract" />
+      <item value="Interest" />
+      <item value="利息" />
+      <item value="Rate" />
+      <item value="payable" />
+      <item value="Orgnization" />
+      <item value="orgnization" />
+      <item value="ORGANIZATION" />
+      <item value="Michery" />
+      <item value="Machinery" />
+      <item value="Decimal" />
+      <item value="constants" />
+      <item value="definition" />
+      <item value="Returns" />
+      <item value="value Of" />
+      <item value="Compact" />
+      <item value="INFLATED" />
+      <item value="encapsulates" />
+      <item value="initialize" />
+      <item value="time Out" />
+      <item value="size" />
+      <item value="Finite" />
+      <item value="POSITIVE INFINITY" />
+      <item value="infinitely" />
+      <item value="PURCHASE" />
+      <item value="PRUCHASE" />
+      <item value="transaction" />
+      <item value="收款" />
+      <item value="Receipt" />
+      <item value="payment" />
+      <item value="Permanent" />
+      <item value="Positive" />
+      <item value="Negative" />
+      <item value="Assets" />
       <item value="stabbed" />
       <item value="direct" />
       <item value="Virtual" />
       <item value="Macao" />
       <item value="Greater" />
-      <item value="subtract" />
       <item value="subcontract" />
       <item value="PATTERN" />
       <item value="Memory" />
@@ -18,27 +51,13 @@
       <item value="paid" />
       <item value="paied" />
       <item value="settled" />
-      <item value="settle" />
-      <item value="settleing" />
-      <item value="settling" />
-      <item value="SETTLEMENT" />
-      <item value="SETTLE" />
-      <item value="日志记录对象" />
-      <item value="final" />
-      <item value="Logger" />
-      <item value="Logger Factory" />
-      <item value="Comments" />
-      <item value="Generated" />
-      <item value="Settle VO" />
-      <item value="Settle" />
-      <item value="Settlement" />
-      <item value="BORROW" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="74" />
         <entry key="TELUGU" value="1" />
+        <entry key="SHONA" value="1" />
       </map>
     </option>
   </component>
