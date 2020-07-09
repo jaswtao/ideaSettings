@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Orgnization" />
+      <item value="orgnization" />
+      <item value="ORGANIZATION" />
       <item value="Michery" />
       <item value="Machinery" />
       <item value="Decimal" />
@@ -48,14 +51,11 @@
       <item value="settleing" />
       <item value="settling" />
       <item value="SETTLEMENT" />
-      <item value="SETTLE" />
-      <item value="日志记录对象" />
-      <item value="final" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="70" />
         <entry key="TELUGU" value="1" />
         <entry key="SHONA" value="1" />
       </map>
