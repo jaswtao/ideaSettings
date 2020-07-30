@@ -6,6 +6,7 @@
       <mapping pattern="Dockerfile-type2" type="PLAIN_TEXT" />
       <mapping pattern="补充" type="PLAIN_TEXT" />
       <mapping pattern="问题记录" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
