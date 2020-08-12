@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Classification" />
       <item value="RECEIPTOR" />
       <item value="receiptor" />
       <item value="Unit" />
@@ -50,12 +51,11 @@
       <item value="Menmery" />
       <item value="caught" />
       <item value="written" />
-      <item value="writing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="78" />
         <entry key="TELUGU" value="1" />
         <entry key="SHONA" value="1" />
       </map>
