@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ABANDON" />
+      <item value="ABONDAN" />
       <item value="Classification" />
       <item value="RECEIPTOR" />
       <item value="receiptor" />
@@ -49,13 +51,12 @@
       <item value="Memory" />
       <item value="Memery" />
       <item value="Menmery" />
-      <item value="caught" />
-      <item value="written" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="80" />
+        <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="SHONA" value="1" />
       </map>
