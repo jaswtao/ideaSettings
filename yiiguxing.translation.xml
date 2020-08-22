@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="management" />
+      <item value="microservice" />
+      <item value="macroservice" />
       <item value="ABANDON" />
       <item value="ABONDAN" />
       <item value="Classification" />
@@ -48,13 +51,10 @@
       <item value="Greater" />
       <item value="subcontract" />
       <item value="PATTERN" />
-      <item value="Memory" />
-      <item value="Memery" />
-      <item value="Menmery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
+        <entry key="CHINESE" value="76" />
         <entry key="ENGLISH" value="80" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="TELUGU" value="1" />
