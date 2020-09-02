@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Complete" />
       <item value="financial" />
       <item value="ABANDON" />
       <item value="microservice" />
@@ -50,12 +51,11 @@
       <item value="Virtual" />
       <item value="Macao" />
       <item value="Greater" />
-      <item value="subcontract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="84" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="SHONA" value="1" />
