@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="automatic" />
       <item value="supplier" />
       <item value="deliver" />
       <item value="Relation" />
@@ -50,11 +51,10 @@
       <item value="Negative" />
       <item value="Assets" />
       <item value="stabbed" />
-      <item value="direct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
+        <entry key="CHINESE" value="85" />
         <entry key="ENGLISH" value="87" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="TELUGU" value="1" />
