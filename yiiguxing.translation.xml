@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="constant" />
+      <item value="Copper" />
       <item value="Cooper" />
+      <item value="constant" />
       <item value="cooper" />
       <item value="automatic" />
       <item value="supplier" />
@@ -50,12 +51,11 @@
       <item value="Receipt" />
       <item value="payment" />
       <item value="Permanent" />
-      <item value="Positive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="SHONA" value="1" />
