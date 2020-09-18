@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Relation" />
+      <item value="relative" />
       <item value="merge" />
       <item value="MERGE" />
       <item value="Handler" />
@@ -12,7 +14,6 @@
       <item value="automatic" />
       <item value="supplier" />
       <item value="deliver" />
-      <item value="Relation" />
       <item value="Complete" />
       <item value="financial" />
       <item value="ABANDON" />
@@ -50,12 +51,11 @@
       <item value="infinitely" />
       <item value="PURCHASE" />
       <item value="PRUCHASE" />
-      <item value="transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="2" />
