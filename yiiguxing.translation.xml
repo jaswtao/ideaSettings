@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abandon" />
+      <item value="abort" />
       <item value="Custom" />
       <item value="Relation" />
       <item value="relative" />
@@ -49,16 +51,15 @@
       <item value="size" />
       <item value="Finite" />
       <item value="POSITIVE INFINITY" />
-      <item value="infinitely" />
-      <item value="PURCHASE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="SHONA" value="1" />
       </map>
