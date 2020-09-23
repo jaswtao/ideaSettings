@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retention" />
       <item value="abandon" />
       <item value="abort" />
       <item value="Custom" />
@@ -50,12 +51,11 @@
       <item value="time Out" />
       <item value="size" />
       <item value="Finite" />
-      <item value="POSITIVE INFINITY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="2" />
