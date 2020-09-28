@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cert" />
+      <item value="Fund" />
+      <item value="Submit" />
+      <item value="Prepare" />
       <item value="MANUAL" />
       <item value="outgoing" />
       <item value="Out Of Stock" />
@@ -47,17 +51,14 @@
       <item value="definition" />
       <item value="Returns" />
       <item value="value Of" />
-      <item value="Compact" />
-      <item value="INFLATED" />
-      <item value="encapsulates" />
-      <item value="initialize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="105" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="TELUGU" value="1" />
