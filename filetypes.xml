@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="成本费用事项取值配置" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-type2" type="PLAIN_TEXT" />
+      <mapping pattern="问题单据" type="PLAIN_TEXT" />
       <mapping pattern="补充" type="PLAIN_TEXT" />
       <mapping pattern="问题记录" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
