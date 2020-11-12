@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trend" />
+      <item value="Accent" />
+      <item value="Acent" />
       <item value="Financial" />
       <item value="Automatic" />
       <item value="Auto" />
@@ -48,14 +51,11 @@
       <item value="management" />
       <item value="macroservice" />
       <item value="ABONDAN" />
-      <item value="Classification" />
-      <item value="RECEIPTOR" />
-      <item value="receiptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="126" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
