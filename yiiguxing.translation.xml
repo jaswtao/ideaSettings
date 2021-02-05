@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="debit" />
+      <item value="Credit" />
+      <item value="particular" />
       <item value="holder" />
       <item value="Tenant" />
       <item value="Handler" />
@@ -48,14 +51,11 @@
       <item value="Retention" />
       <item value="abandon" />
       <item value="abort" />
-      <item value="Custom" />
-      <item value="Relation" />
-      <item value="relative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
