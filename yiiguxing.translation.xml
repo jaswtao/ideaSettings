@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unqualified" />
       <item value="choose" />
       <item value="debit" />
       <item value="Credit" />
@@ -50,11 +51,10 @@
       <item value="outgoing" />
       <item value="Out Of Stock" />
       <item value="Retention" />
-      <item value="abandon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
+        <entry key="CHINESE" value="144" />
         <entry key="ENGLISH" value="144" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
