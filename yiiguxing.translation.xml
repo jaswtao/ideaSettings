@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Comma" />
       <item value="Deprecated" />
       <item value="set Cell Type" />
       <item value="unqualified" />
@@ -50,11 +51,10 @@
       <item value="Submit" />
       <item value="Prepare" />
       <item value="MANUAL" />
-      <item value="outgoing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
+        <entry key="CHINESE" value="146" />
         <entry key="ENGLISH" value="146" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
@@ -63,6 +63,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="SHONA" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
