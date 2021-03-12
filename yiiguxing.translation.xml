@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="source" />
       <item value="Unpaid" />
       <item value="Store" />
       <item value="Outgoing" />
@@ -50,12 +51,11 @@
       <item value="Process" />
       <item value="Presence" />
       <item value="Present" />
-      <item value="switch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
