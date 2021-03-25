@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="export" />
       <item value="Respectivly" />
       <item value="summary" />
       <item value="equal" />
@@ -50,12 +51,11 @@
       <item value="convertion" />
       <item value="Offset from the center. A negative value means coordinates left from" />
       <item value="Draft" />
-      <item value="Handled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
