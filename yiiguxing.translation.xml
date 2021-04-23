@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Custom" />
       <item value="inactive" />
       <item value="temporary" />
       <item value="dependency" />
@@ -50,7 +51,6 @@
       <item value="Visiable" />
       <item value="Trend" />
       <item value="Accent" />
-      <item value="Acent" />
     </histories>
     <option name="languageScores">
       <map>
