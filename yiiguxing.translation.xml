@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclude" />
       <item value="urgent" />
       <item value="I Producer" />
       <item value="Producer" />
@@ -24,7 +25,6 @@
       <item value="Outgoing" />
       <item value="subcontract" />
       <item value="Permenant" />
-      <item value="exclude" />
       <item value="truncate" />
       <item value="Comma" />
       <item value="Deprecated" />
