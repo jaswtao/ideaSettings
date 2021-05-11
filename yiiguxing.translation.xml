@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reply" />
       <item value="is Handling" />
       <item value="Handling" />
       <item value="suffix" />
@@ -50,12 +51,11 @@
       <item value="selenium" />
       <item value="negative" />
       <item value="process" />
-      <item value="entrance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
