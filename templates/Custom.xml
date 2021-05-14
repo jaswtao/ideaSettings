@@ -30,9 +30,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="info" value="logger.info(&quot;$CLASS_NAME$#$METHOD_NAME$, $END$&quot;);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+  <template name="info" value="logger.info(&quot;$END$&quot;);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
