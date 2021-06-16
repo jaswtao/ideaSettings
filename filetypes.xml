@@ -4,16 +4,6 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="成本费用事项取值配置" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-type2" type="PLAIN_TEXT" />
-      <mapping pattern="问题单据" type="PLAIN_TEXT" />
-      <mapping pattern="补充" type="PLAIN_TEXT" />
-      <mapping pattern="问题记录" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping pattern="application-dev.properties" type="Properties" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>

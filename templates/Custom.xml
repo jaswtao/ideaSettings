@@ -5,34 +5,15 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="debug" value="logger.debug(&quot;$CLASS_NAME$#$METHOD_NAME$, $END$&quot;);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-    </context>
-  </template>
   <template name="api" value="@ApiImplicitParam(dataType = &quot;String&quot;, paramType = &quot;header&quot;, name = CommonConsts.SECURE_HEADER)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="time" value="$date$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
+  <template name="date" value="$date$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_COMMENT" value="true" />
-    </context>
-  </template>
-  <template name="error" value="logger.error(&quot;$CLASS_NAME$#$METHOD_NAME$, $END$&quot;);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="info" value="logger.info(&quot;$END$&quot;);" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>

@@ -1,16 +1,30 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="C:/app/apache-maven" />
-            <option name="userSettingsFile" value="C:\app\apache-maven\conf\settings.xml" />
+            <option name="mavenHome" value="C:/Program Files/apache-maven-3.8.1" />
           </MavenGeneralSettings>
         </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="downloadAnnotationsAutomatically" value="true" />
+            <option name="downloadDocsAutomatically" value="true" />
+            <option name="downloadSourcesAutomatically" value="true" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="ProjectViewState">
+        <option name="autoscrollFromSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
       </component>
     </defaultProject>
   </component>

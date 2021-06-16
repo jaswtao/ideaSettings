@@ -1,75 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Storage" />
-      <item value="sequence" />
-      <item value="validate" />
-      <item value="check" />
-      <item value="health" />
-      <item value="reply" />
-      <item value="is Handling" />
-      <item value="Handling" />
-      <item value="suffix" />
-      <item value="post" />
-      <item value="source" />
-      <item value="Trade" />
-      <item value="parallel" />
-      <item value="exclude" />
-      <item value="urgent" />
-      <item value="I Producer" />
-      <item value="Producer" />
-      <item value="Queue" />
-      <item value="Custom" />
-      <item value="inactive" />
-      <item value="temporary" />
-      <item value="dependency" />
-      <item value="storing" />
-      <item value="Captcha" />
-      <item value="max Lifetime" />
-      <item value="Orgnization" />
-      <item value="export" />
-      <item value="Respectivly" />
-      <item value="summary" />
-      <item value="equal" />
-      <item value="Actual" />
-      <item value="Unpaid" />
-      <item value="Store" />
-      <item value="Outgoing" />
-      <item value="subcontract" />
-      <item value="Permenant" />
-      <item value="truncate" />
+      <item value="Labor Cost" />
+      <item value="double" />
       <item value="Comma" />
-      <item value="Deprecated" />
-      <item value="set Cell Type" />
-      <item value="unqualified" />
-      <item value="choose" />
-      <item value="debit" />
-      <item value="Credit" />
-      <item value="particular" />
-      <item value="holder" />
-      <item value="Tenant" />
-      <item value="Handler" />
-      <item value="Subscription" />
-      <item value="Subscript" />
+      <item value="Epoch" />
+      <item value="pure" />
+      <item value="symbol" />
+      <item value="Token" />
+      <item value="exchange Access Token" />
+      <item value="exchange" />
+      <item value="secret" />
+      <item value="denied" />
+      <item value="abandon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="176" />
-        <entry key="FRENCH" value="1" />
-        <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="CATALAN" value="1" />
-        <entry key="ROMANIAN" value="2" />
-        <entry key="NORWEGIAN" value="1" />
-        <entry key="TELUGU" value="1" />
-        <entry key="SHONA" value="1" />
-        <entry key="ITALIAN" value="2" />
-        <entry key="HINDI" value="1" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621049372938" />
+    <option name="lastTrimTime" value="1623766427038" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
@@ -77,5 +31,6 @@
         <option name="primaryLanguage" value="CHINESE" />
       </google-translate>
     </option>
+    <option name="targetLanguageSelection" value="LAST" />
   </component>
 </application>
