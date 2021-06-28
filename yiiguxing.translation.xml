@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pack" />
+      <item value="wrap" />
       <item value="increase" />
       <item value="project Income Service" />
       <item value="Labor Cost" />
@@ -18,14 +20,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624367121756" />
+    <option name="lastTrimTime" value="1624865646417" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
