@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cheque" />
       <item value="Label" />
       <item value="Owner" />
       <item value="For" />
@@ -53,6 +54,7 @@
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
+        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
     <option name="targetLanguageSelection" value="LAST" />
