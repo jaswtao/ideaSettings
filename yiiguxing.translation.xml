@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="configure job that runs hour by hour" />
       <item value="Exchange" />
       <item value="VOUCHER" />
       <item value="symbol" />
@@ -51,14 +52,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632888420589" />
+    <option name="lastTrimTime" value="1633484805345" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
