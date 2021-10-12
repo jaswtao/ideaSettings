@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ordinal" />
+      <item value="compare" />
+      <item value="increment" />
+      <item value="configure job that runs hour by hour" />
+      <item value="Exchange" />
+      <item value="VOUCHER" />
+      <item value="symbol" />
       <item value="Organization" />
       <item value="Orgnization" />
       <item value="ORGANIZATION" />
@@ -39,24 +46,22 @@
       <item value="Comma" />
       <item value="Epoch" />
       <item value="pure" />
-      <item value="symbol" />
       <item value="Token" />
       <item value="exchange Access Token" />
       <item value="exchange" />
       <item value="secret" />
       <item value="denied" />
-      <item value="abandon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632110533330" />
+    <option name="lastTrimTime" value="1634000666728" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
