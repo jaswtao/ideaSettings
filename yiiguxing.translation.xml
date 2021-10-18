@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FUND-BALANCE" />
+      <item value="Assess" />
+      <item value="operating-amount" />
+      <item value="operating" />
       <item value="season" />
       <item value="Season" />
       <item value="this Year Accumulate" />
@@ -47,21 +51,17 @@
       <item value="wrap" />
       <item value="increase" />
       <item value="project Income Service" />
-      <item value="Labor Cost" />
-      <item value="double" />
-      <item value="Comma" />
-      <item value="Epoch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634000666728" />
+    <option name="lastTrimTime" value="1634538956012" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
