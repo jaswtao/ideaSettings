@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PATTERN" />
       <item value="Respectivly" />
       <item value="Net Profit" />
       <item value="FUND-BALANCE" />
@@ -50,12 +51,11 @@
       <item value="pool" />
       <item value="volatile" />
       <item value="pack" />
-      <item value="wrap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
