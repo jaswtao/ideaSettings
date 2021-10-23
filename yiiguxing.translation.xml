@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CONTRACT" />
+      <item value="invest" />
       <item value="Assess" />
       <item value="Between" />
       <item value="Main" />
@@ -49,20 +51,18 @@
       <item value="register" />
       <item value="mean" />
       <item value="means" />
-      <item value="process" />
-      <item value="Authority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634538956012" />
+    <option name="lastTrimTime" value="1635001044062" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
