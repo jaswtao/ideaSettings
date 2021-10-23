@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assess" />
       <item value="Between" />
       <item value="Main" />
       <item value="Accumulate" />
@@ -17,7 +18,6 @@
       <item value="Respectivly" />
       <item value="Net Profit" />
       <item value="FUND-BALANCE" />
-      <item value="Assess" />
       <item value="operating-amount" />
       <item value="operating" />
       <item value="season" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
