@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Login Invoker" />
+      <item value="Invoker" />
+      <item value="Caller" />
+      <item value="Login Caller" />
       <item value="Annual" />
       <item value="Company Project Amount" />
       <item value="Increment" />
@@ -47,17 +51,14 @@
       <item value="descendant" />
       <item value="Cheque" />
       <item value="Label" />
-      <item value="Owner" />
-      <item value="For" />
-      <item value="choose Owner Company For Step 1" />
-      <item value="August" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
