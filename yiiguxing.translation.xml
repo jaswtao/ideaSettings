@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separator" />
+      <item value="seperator" />
+      <item value="Domain" />
       <item value="Collaboration" />
       <item value="Login Invoker" />
       <item value="Invoker" />
@@ -48,14 +51,11 @@
       <item value="Substitute" />
       <item value="Cheque Receiver" />
       <item value="Receiver" />
-      <item value="descendant" />
-      <item value="Cheque" />
-      <item value="Label" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635001044062" />
+    <option name="lastTrimTime" value="1635689127713" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
