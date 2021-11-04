@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="symbol" />
+      <item value="truncate" />
       <item value="Suffix" />
       <item value="Digetst" />
       <item value="Cashout Apply" />
@@ -46,16 +48,14 @@
       <item value="configure job that runs hour by hour" />
       <item value="Exchange" />
       <item value="VOUCHER" />
-      <item value="symbol" />
       <item value="Organization" />
       <item value="Orgnization" />
       <item value="ORGANIZATION" />
-      <item value="Machinery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
