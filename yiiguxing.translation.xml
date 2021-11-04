@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="finance" />
       <item value="symbol" />
       <item value="truncate" />
       <item value="Suffix" />
@@ -50,12 +51,11 @@
       <item value="VOUCHER" />
       <item value="Organization" />
       <item value="Orgnization" />
-      <item value="ORGANIZATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
