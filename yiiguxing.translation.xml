@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contents of collection 'beanMap' are queried, but never updated" />
       <item value="executing" />
       <item value="LABEL" />
       <item value="attendance" />
@@ -50,7 +51,6 @@
       <item value="increment" />
       <item value="configure job that runs hour by hour" />
       <item value="Exchange" />
-      <item value="VOUCHER" />
     </histories>
     <option name="languageScores">
       <map>
