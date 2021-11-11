@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="annual" />
       <item value="gender" />
       <item value="keyword" />
       <item value="clause" />
@@ -39,7 +40,6 @@
       <item value="terminating" />
       <item value="legacy" />
       <item value="occurred" />
-      <item value="annual" />
       <item value="Acumulate" />
       <item value="PATTERN" />
       <item value="Respectivly" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
