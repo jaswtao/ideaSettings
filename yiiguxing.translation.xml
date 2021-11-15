@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attendance" />
       <item value="ambiguous" />
       <item value="annual" />
       <item value="gender" />
@@ -12,7 +13,6 @@
       <item value="Contents of collection 'beanMap' are queried, but never updated" />
       <item value="executing" />
       <item value="LABEL" />
-      <item value="attendance" />
       <item value="finance" />
       <item value="symbol" />
       <item value="truncate" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
@@ -70,7 +70,6 @@
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
-        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
     <option name="targetLanguageSelection" value="LAST" />
