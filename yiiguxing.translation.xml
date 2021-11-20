@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="temporary" />
       <item value="FEMALE" />
       <item value="Quota" />
       <item value="position" />
@@ -50,12 +51,11 @@
       <item value="Net Profit" />
       <item value="FUND-BALANCE" />
       <item value="operating-amount" />
-      <item value="operating" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636895724302" />
+    <option name="lastTrimTime" value="1637392703465" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
