@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filename" />
       <item value="temporary" />
       <item value="FEMALE" />
       <item value="Quota" />
@@ -50,12 +51,11 @@
       <item value="Respectivly" />
       <item value="Net Profit" />
       <item value="FUND-BALANCE" />
-      <item value="operating-amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
