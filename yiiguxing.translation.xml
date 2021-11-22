@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="translate" />
       <item value="referee Relevant Experience" />
       <item value="referee" />
       <item value="terminate" />
@@ -50,12 +51,11 @@
       <item value="legacy" />
       <item value="occurred" />
       <item value="Acumulate" />
-      <item value="PATTERN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
