@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="temporary" />
       <item value="retire" />
       <item value="Anniversary" />
       <item value="complete" />
@@ -9,7 +10,6 @@
       <item value="referee" />
       <item value="terminate" />
       <item value="filename" />
-      <item value="temporary" />
       <item value="FEMALE" />
       <item value="Quota" />
       <item value="position" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
