@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="启动参数" type="AUTO_DETECTED" />
       <mapping pattern="account-info" type="AUTO_DETECTED" />
       <mapping pattern="branchCindition" type="AUTO_DETECTED" />
       <mapping pattern="现时二级分管领导审批条件" type="AUTO_DETECTED" />
