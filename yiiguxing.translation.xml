@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Atomic" />
       <item value="referee" />
       <item value="referrer" />
       <item value="Field" />
@@ -50,12 +51,11 @@
       <item value="Increment" />
       <item value="CONTRACT" />
       <item value="invest" />
-      <item value="Assess" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637849819332" />
+    <option name="lastTrimTime" value="1638331801786" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
