@@ -1,7 +1,39 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Accumulate" />
+      <item value="arrive" />
+      <item value="Atomic" />
+      <item value="referee" />
+      <item value="referrer" />
+      <item value="Field" />
+      <item value="Apply" />
+      <item value="extract" />
+      <item value="routines" />
+      <item value="obsoleted" />
+      <item value="temporary" />
+      <item value="retire" />
+      <item value="Anniversary" />
+      <item value="complete" />
+      <item value="translate" />
+      <item value="referee Relevant Experience" />
+      <item value="terminate" />
+      <item value="filename" />
+      <item value="FEMALE" />
+      <item value="Quota" />
+      <item value="position" />
       <item value="attendance" />
+      <item value="ambiguous" />
+      <item value="annual" />
+      <item value="gender" />
+      <item value="keyword" />
+      <item value="clause" />
+      <item value="Authority" />
+      <item value="Authorize" />
+      <item value="Env Definition" />
+      <item value="Contents of collection 'beanMap' are queried, but never updated" />
+      <item value="executing" />
+      <item value="LABEL" />
       <item value="finance" />
       <item value="symbol" />
       <item value="truncate" />
@@ -19,58 +51,25 @@
       <item value="Annual" />
       <item value="Company Project Amount" />
       <item value="Increment" />
-      <item value="CONTRACT" />
-      <item value="invest" />
-      <item value="Assess" />
-      <item value="Between" />
-      <item value="Main" />
-      <item value="Accumulate" />
-      <item value="divide" />
-      <item value="expansion" />
-      <item value="terminating" />
-      <item value="legacy" />
-      <item value="occurred" />
-      <item value="annual" />
-      <item value="Acumulate" />
-      <item value="PATTERN" />
-      <item value="Respectivly" />
-      <item value="Net Profit" />
-      <item value="FUND-BALANCE" />
-      <item value="operating-amount" />
-      <item value="operating" />
-      <item value="season" />
-      <item value="Season" />
-      <item value="this Year Accumulate" />
-      <item value="this Year Grand Total" />
-      <item value="this Month Increment" />
-      <item value="ordinal" />
-      <item value="compare" />
-      <item value="increment" />
-      <item value="configure job that runs hour by hour" />
-      <item value="Exchange" />
-      <item value="VOUCHER" />
-      <item value="Organization" />
-      <item value="Orgnization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="5" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635689127713" />
+    <option name="lastTrimTime" value="1638331801786" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
-        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
     <option name="targetLanguageSelection" value="LAST" />
