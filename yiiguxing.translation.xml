@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
+      <item value="apply" />
+      <item value="Accumulate" />
+      <item value="arrive" />
+      <item value="Atomic" />
+      <item value="referee" />
+      <item value="referrer" />
+      <item value="Field" />
+      <item value="Apply" />
+      <item value="extract" />
       <item value="routines" />
       <item value="obsoleted" />
       <item value="temporary" />
@@ -9,7 +19,6 @@
       <item value="complete" />
       <item value="translate" />
       <item value="referee Relevant Experience" />
-      <item value="referee" />
       <item value="terminate" />
       <item value="filename" />
       <item value="FEMALE" />
@@ -42,20 +51,11 @@
       <item value="Caller" />
       <item value="Login Caller" />
       <item value="Annual" />
-      <item value="Company Project Amount" />
-      <item value="Increment" />
-      <item value="CONTRACT" />
-      <item value="invest" />
-      <item value="Assess" />
-      <item value="Between" />
-      <item value="Main" />
-      <item value="Accumulate" />
-      <item value="divide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637849819332" />
+    <option name="lastTrimTime" value="1638331801786" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
