@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="启动参数" type="AUTO_DETECTED" />
       <mapping pattern="account-info" type="AUTO_DETECTED" />
+      <mapping pattern="update-OA" type="AUTO_DETECTED" />
       <mapping pattern="branchCindition" type="AUTO_DETECTED" />
       <mapping pattern="流程節點條件配置" type="AUTO_DETECTED" />
       <mapping pattern="支票抓取" type="AUTO_DETECTED" />
