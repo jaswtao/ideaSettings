@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="启动参数" type="AUTO_DETECTED" />
       <mapping pattern="account-info" type="AUTO_DETECTED" />
+      <mapping pattern="update-OA" type="AUTO_DETECTED" />
       <mapping pattern="branchCindition" type="AUTO_DETECTED" />
       <mapping pattern="流程節點條件配置" type="AUTO_DETECTED" />
       <mapping pattern="支票抓取" type="AUTO_DETECTED" />
@@ -10,6 +11,7 @@
       <mapping pattern="审批人员配置权限" type="AUTO_DETECTED" />
       <mapping pattern="晋升申请表-idpt" type="AUTO_DETECTED" />
       <mapping pattern="现时二级分管领导审批条件" type="AUTO_DETECTED" />
+      <mapping ext="cmd" type="Batch" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
