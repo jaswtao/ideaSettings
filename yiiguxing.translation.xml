@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="institution" />
       <item value="amount" />
       <item value="voucher NO" />
       <item value="voucher" />
@@ -50,12 +51,11 @@
       <item value="separator" />
       <item value="seperator" />
       <item value="Domain" />
-      <item value="Collaboration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640589659115" />
+    <option name="lastTrimTime" value="1641549924801" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
