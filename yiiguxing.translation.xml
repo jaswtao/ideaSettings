@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="institution" />
+      <item value="amount" />
+      <item value="voucher NO" />
+      <item value="voucher" />
+      <item value="Overdue" />
+      <item value="validate" />
       <item value="handle" />
       <item value="apply" />
       <item value="Accumulate" />
@@ -45,17 +51,11 @@
       <item value="separator" />
       <item value="seperator" />
       <item value="Domain" />
-      <item value="Collaboration" />
-      <item value="Login Invoker" />
-      <item value="Invoker" />
-      <item value="Caller" />
-      <item value="Login Caller" />
-      <item value="Annual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638331801786" />
+    <option name="lastTrimTime" value="1641549924801" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
