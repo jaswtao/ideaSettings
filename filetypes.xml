@@ -11,6 +11,7 @@
       <mapping pattern="审批人员配置权限" type="AUTO_DETECTED" />
       <mapping pattern="晋升申请表-idpt" type="AUTO_DETECTED" />
       <mapping pattern="现时二级分管领导审批条件" type="AUTO_DETECTED" />
+      <mapping pattern="问题" type="AUTO_DETECTED" />
       <mapping pattern="员工转调流程" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
