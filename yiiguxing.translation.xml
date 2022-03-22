@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Supplier" />
+      <item value="Respectivly" />
+      <item value="Promotion" />
+      <item value="Holiday" />
+      <item value="institution" />
       <item value="amount" />
       <item value="voucher NO" />
       <item value="voucher" />
@@ -46,16 +51,11 @@
       <item value="truncate" />
       <item value="Suffix" />
       <item value="Digetst" />
-      <item value="Cashout Apply" />
-      <item value="separator" />
-      <item value="seperator" />
-      <item value="Domain" />
-      <item value="Collaboration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640589659115" />
+    <option name="lastTrimTime" value="1647781666233" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
