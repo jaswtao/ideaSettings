@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Summary" />
       <item value="Model" />
       <item value="Supplier" />
       <item value="Respectivly" />
@@ -50,12 +51,11 @@
       <item value="finance" />
       <item value="symbol" />
       <item value="truncate" />
-      <item value="Suffix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647781666233" />
+    <option name="lastTrimTime" value="1648277648801" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
