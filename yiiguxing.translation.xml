@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Single Quote" />
       <item value="converted" />
       <item value="Summary" />
       <item value="Model" />
@@ -50,12 +51,11 @@
       <item value="executing" />
       <item value="LABEL" />
       <item value="finance" />
-      <item value="symbol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648277648801" />
+    <option name="lastTrimTime" value="1648994279025" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
