@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HANDLED" />
       <item value="rate" />
       <item value="ratio" />
       <item value="Suggest" />
@@ -50,12 +51,11 @@
       <item value="Authority" />
       <item value="Authorize" />
       <item value="Env Definition" />
-      <item value="Contents of collection 'beanMap' are queried, but never updated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="FRISIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
