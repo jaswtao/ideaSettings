@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Carbon" />
+      <item value="Newtral" />
       <item value="HANDLED" />
       <item value="rate" />
       <item value="ratio" />
@@ -49,14 +51,13 @@
       <item value="keyword" />
       <item value="clause" />
       <item value="Authority" />
-      <item value="Authorize" />
-      <item value="Env Definition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="FRISIAN" value="1" />
+        <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="5" />
         <entry key="VIETNAMESE" value="1" />
@@ -64,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648994279025" />
+    <option name="lastTrimTime" value="1649469512906" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
