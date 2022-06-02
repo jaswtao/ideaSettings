@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Percentage" />
       <item value="Ratio" />
       <item value="category" />
       <item value="budget" />
@@ -50,12 +51,11 @@
       <item value="referrer" />
       <item value="Field" />
       <item value="Apply" />
-      <item value="extract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
