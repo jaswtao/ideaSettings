@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="turnover" />
+      <item value="operation" />
+      <item value="revenue" />
       <item value="Ratio" />
       <item value="Percentage" />
       <item value="category" />
@@ -48,14 +51,11 @@
       <item value="arrive" />
       <item value="Atomic" />
       <item value="referee" />
-      <item value="referrer" />
-      <item value="Field" />
-      <item value="Apply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653984090454" />
+    <option name="lastTrimTime" value="1654592091281" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
