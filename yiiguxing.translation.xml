@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="operation" />
+      <item value="operating" />
+      <item value="invest" />
       <item value="month" />
       <item value="Operating" />
       <item value="Assess" />
       <item value="permanent assets" />
       <item value="revenue" />
-      <item value="operation" />
       <item value="turnover" />
       <item value="Ratio" />
       <item value="Percentage" />
@@ -49,13 +51,11 @@
       <item value="voucher" />
       <item value="Overdue" />
       <item value="validate" />
-      <item value="handle" />
-      <item value="apply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
