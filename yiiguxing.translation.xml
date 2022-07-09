@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Controller" />
       <item value="Derby" />
       <item value="Resign" />
       <item value="invocations" />
@@ -50,12 +51,11 @@
       <item value="Single Quote" />
       <item value="converted" />
       <item value="Summary" />
-      <item value="Model" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="195" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656929209584" />
+    <option name="lastTrimTime" value="1657361360166" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
