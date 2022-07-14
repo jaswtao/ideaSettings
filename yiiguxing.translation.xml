@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exposure" />
+      <item value="Annotation" />
+      <item value="Controller" />
+      <item value="Derby" />
+      <item value="Resign" />
+      <item value="invocations" />
+      <item value="annotated" />
+      <item value="Maintain" />
+      <item value="Twice" />
+      <item value="Blank" />
+      <item value="Permanent" />
+      <item value="Assess" />
+      <item value="increase" />
+      <item value="accumulate" />
+      <item value="operation" />
+      <item value="operating" />
+      <item value="invest" />
+      <item value="month" />
+      <item value="Operating" />
+      <item value="permanent assets" />
+      <item value="revenue" />
+      <item value="turnover" />
+      <item value="Ratio" />
+      <item value="Percentage" />
+      <item value="category" />
+      <item value="budget" />
+      <item value="STATISTICS" />
+      <item value="ASSESSMENT" />
+      <item value="TURNOVER" />
+      <item value="finishrate" />
       <item value="convert" />
       <item value="suggestion" />
       <item value="transfer" />
@@ -21,41 +51,11 @@
       <item value="ratio" />
       <item value="Suggest" />
       <item value="Single Quote" />
-      <item value="converted" />
-      <item value="Summary" />
-      <item value="Model" />
-      <item value="Supplier" />
-      <item value="Respectivly" />
-      <item value="Promotion" />
-      <item value="Holiday" />
-      <item value="institution" />
-      <item value="amount" />
-      <item value="voucher NO" />
-      <item value="voucher" />
-      <item value="Overdue" />
-      <item value="validate" />
-      <item value="handle" />
-      <item value="apply" />
-      <item value="Accumulate" />
-      <item value="arrive" />
-      <item value="Atomic" />
-      <item value="referee" />
-      <item value="referrer" />
-      <item value="Field" />
-      <item value="Apply" />
-      <item value="extract" />
-      <item value="routines" />
-      <item value="obsoleted" />
-      <item value="temporary" />
-      <item value="retire" />
-      <item value="Anniversary" />
-      <item value="complete" />
-      <item value="translate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653442962856" />
+    <option name="lastTrimTime" value="1657361360166" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
