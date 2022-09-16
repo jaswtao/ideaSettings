@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="733" />
+    <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="易受伤害的" />
+      <item value="vulnerable" />
       <item value="revert" />
       <item value="Pollutants" />
       <item value="Hexadecimal and scientific notations" />
@@ -49,13 +54,11 @@
       <item value="transfer" />
       <item value="reprocess" />
       <item value="Aspect" />
-      <item value="Argument" />
-      <item value="Additional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -67,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662693291488" />
+    <option name="lastTrimTime" value="1663310714112" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
