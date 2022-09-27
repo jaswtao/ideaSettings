@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="733" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="Converter" />
       <item value="complete" />
       <item value="Sneaky Throws" />
       <item value="Patterns" />
@@ -53,12 +54,11 @@
       <item value="ASSESSMENT" />
       <item value="TURNOVER" />
       <item value="finishrate" />
-      <item value="convert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663310714112" />
+    <option name="lastTrimTime" value="1664245761424" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
