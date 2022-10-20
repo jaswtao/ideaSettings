@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="733" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="State" />
+      <item value="Status" />
       <item value="Copy the property values of the given source bean into the target bean. Note: The source and target classes do not have to match or even be derived from each other, as long as the properties match. Any bean properties that the source bean exposes but the target bean does not will silently be ignored. This is just a convenience method. For more complex transfer needs, consider using a full BeanWrapper. As of Spring Framework 5.3, this method honors generic type information when matching properties in the source and target objects. The following table provides a non-exhaustive set of examples of source and target property types that can be copied as well as source and target property types that cannot be copied." />
       <item value="Param" />
       <item value="terminate" />
@@ -52,13 +54,11 @@
       <item value="Maintain" />
       <item value="Twice" />
       <item value="Blank" />
-      <item value="Permanent" />
-      <item value="Assess" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="236" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
