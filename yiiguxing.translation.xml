@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="733" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="Course" />
       <item value="Question" />
       <item value="answer" />
       <item value="Examine" />
@@ -53,12 +54,11 @@
       <item value="Anniversary" />
       <item value="exposure" />
       <item value="Annotation" />
-      <item value="Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
