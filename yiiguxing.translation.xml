@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="733" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="minutes" />
       <item value="oprate" />
       <item value="CAUSE" />
       <item value="opinion" />
@@ -53,12 +54,11 @@
       <item value="Proxy" />
       <item value="submited" />
       <item value="approved" />
-      <item value="volatile" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="249" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667374974274" />
+    <option name="lastTrimTime" value="1667890182515" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
