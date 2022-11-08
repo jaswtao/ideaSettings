@@ -1,73 +1,78 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="733" />
+    <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="oprate" />
+      <item value="CAUSE" />
+      <item value="opinion" />
+      <item value="Control" />
+      <item value="Third" />
+      <item value="Second" />
+      <item value="Course" />
+      <item value="Question" />
+      <item value="answer" />
+      <item value="Examine" />
+      <item value="lesson" />
+      <item value="truncate" />
+      <item value="Train" />
+      <item value="Create" />
+      <item value="State" />
+      <item value="Status" />
+      <item value="Copy the property values of the given source bean into the target bean. Note: The source and target classes do not have to match or even be derived from each other, as long as the properties match. Any bean properties that the source bean exposes but the target bean does not will silently be ignored. This is just a convenience method. For more complex transfer needs, consider using a full BeanWrapper. As of Spring Framework 5.3, this method honors generic type information when matching properties in the source and target objects. The following table provides a non-exhaustive set of examples of source and target property types that can be copied as well as source and target property types that cannot be copied." />
+      <item value="Param" />
+      <item value="terminate" />
+      <item value="inactive" />
+      <item value="Cashout Apply" />
+      <item value="Probation Eval" />
+      <item value="Probation" />
+      <item value="organization" />
+      <item value="Workflow" />
+      <item value="Audit" />
+      <item value="Converter" />
+      <item value="user VO" />
+      <item value="The value may indicate a suggestion for a logical component name, to be turned into a Spring bean in case of an autodetected component." />
+      <item value="latitude" />
+      <item value="longidute" />
+      <item value="existed" />
+      <item value="Listener" />
+      <item value="un Lock" />
+      <item value="hard code" />
+      <item value="Ignore" />
+      <item value="Adapts a Collector accepting elements of type U to one accepting elements of type T by applying a mapping function to each input element before accumulation" />
+      <item value="complete" />
+      <item value="Sneaky Throws" />
+      <item value="Patterns" />
+      <item value="append" />
+      <item value="易受伤害的" />
+      <item value="vulnerable" />
+      <item value="revert" />
+      <item value="Pollutants" />
+      <item value="Hexadecimal and scientific notations" />
       <item value="Proxy" />
       <item value="submited" />
       <item value="approved" />
       <item value="volatile" />
-      <item value="plain" />
-      <item value="Attendance" />
-      <item value="Probation Eval" />
-      <item value="Eval" />
-      <item value="Probation" />
-      <item value="Anniversary" />
-      <item value="exposure" />
-      <item value="Annotation" />
-      <item value="Controller" />
-      <item value="Derby" />
-      <item value="Resign" />
-      <item value="invocations" />
-      <item value="annotated" />
-      <item value="Maintain" />
-      <item value="Twice" />
-      <item value="Blank" />
-      <item value="Permanent" />
-      <item value="Assess" />
-      <item value="increase" />
-      <item value="accumulate" />
-      <item value="operation" />
-      <item value="operating" />
-      <item value="invest" />
-      <item value="month" />
-      <item value="Operating" />
-      <item value="permanent assets" />
-      <item value="revenue" />
-      <item value="turnover" />
-      <item value="Ratio" />
-      <item value="Percentage" />
-      <item value="category" />
-      <item value="budget" />
-      <item value="STATISTICS" />
-      <item value="ASSESSMENT" />
-      <item value="TURNOVER" />
-      <item value="finishrate" />
-      <item value="convert" />
-      <item value="suggestion" />
-      <item value="transfer" />
-      <item value="reprocess" />
-      <item value="Aspect" />
-      <item value="Argument" />
-      <item value="Additional" />
-      <item value="Negative" />
-      <item value="Negtive" />
-      <item value="seeyon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="249" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAYALAM" value="1" />
+        <entry key="SWAHILI" value="1" />
+        <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="5" />
-        <entry key="HINDI" value="1" />
+        <entry key="HINDI" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661334290164" />
+    <option name="lastTrimTime" value="1667374974274" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
