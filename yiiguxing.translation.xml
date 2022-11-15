@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="733" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="Representatives" />
+      <item value="Promotion Panel Representatives 3" />
+      <item value="Professional Qualification" />
       <item value="integration" />
       <item value="business" />
       <item value="list Roles Of User" />
@@ -51,14 +54,11 @@
       <item value="Patterns" />
       <item value="append" />
       <item value="易受伤害的" />
-      <item value="vulnerable" />
-      <item value="revert" />
-      <item value="Pollutants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667890182515" />
+    <option name="lastTrimTime" value="1668479031120" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
