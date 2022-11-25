@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="733" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="Order" />
+      <item value="sort Name" />
+      <item value="sort Order" />
       <item value="flight" />
       <item value="Representatives" />
       <item value="Promotion Panel Representatives 3" />
@@ -51,14 +54,11 @@
       <item value="Ignore" />
       <item value="Adapts a Collector accepting elements of type U to one accepting elements of type T by applying a mapping function to each input element before accumulation" />
       <item value="complete" />
-      <item value="Sneaky Throws" />
-      <item value="Patterns" />
-      <item value="append" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="FRISIAN" value="1" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
